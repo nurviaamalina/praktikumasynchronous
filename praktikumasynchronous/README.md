@@ -1,4 +1,4 @@
-![Screenshot (1339)](https://github.com/user-attachments/assets/24bdfff2-a6da-4a76-9c78-8ae3500b89f0)# Praktikum Asynchronous 
+# Praktikum Asynchronous 
 -
 Dea Cipta Ningrum Aimanta Putri - 362358302147 - 2A TRPL 
 -
